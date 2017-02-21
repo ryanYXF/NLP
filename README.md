@@ -1,3 +1,17 @@
 # NLP
-NLP course for AI program 
+NLP course for AI program
 instructor: Ryan.Y
+
+第一讲:  自然语言处理导论
+
+
+第二讲:  数据清理与分析:  分词,句法分析
+
+
+第三讲:  数字化模型: 词向量与语言模型
+
+
+第四讲:  信息抽取识别: 信息抽取与命名实体识别
+
+
+第五讲:  应用场景:总结, 问答, 翻译
