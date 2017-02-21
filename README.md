@@ -1,2 +1,3 @@
 # NLP
-NLP course
+NLP course for AI program 
+instructor: Ryan.Y
