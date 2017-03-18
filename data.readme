@@ -1,0 +1,2 @@
+sogou text classificaton toy data
+cat news_tensite_xml.smarty.dat | iconv -f gbk -t utf-8 -c | grep "<content>"  > corpus.txt
